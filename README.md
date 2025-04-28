@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] 👩‍💻
+# 👋 Hi, I'm Hamza Ramzan 👩‍💻
 
 > Passionate **Software Developer** with expertise in **Machine Learning**, **Data Science**, and **Web Development**.  
 > I love building user-friendly, impactful applications that solve real-world problems.
