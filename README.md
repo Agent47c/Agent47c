@@ -65,6 +65,19 @@ These projects enhanced my skills in **Machine Learning**, **Model Evaluation**,
 
 ---
 
+## 🎓 **Arch Technologies Internship**
+
+During my **Arch Technologies Internship**, I had the opportunity to work on a **Brain Tumor Detection Model**. The task involved using **YOLO (You Only Look Once)** for object detection on **MRI images** to identify possible tumor regions. I also incorporated **SAM (Segment Anything Model)** for more refined segmentation of the tumor regions.  
+The result was an intelligent model for detecting brain tumors from medical images, which could be used in the healthcare industry.
+
+- **Technologies**: Python, YOLO, SAM, Machine Learning, Computer Vision, Medical Imaging.
+- **Key Features**:
+  - **Object detection** with **YOLO** on MRI scans.
+  - **Segmentation** of tumor regions with **SAM**.
+  - **Real-time prediction** using **Streamlit** frontend.
+
+  ---
+
 ## 🛠️ **Skills**
 
 | **Machine Learning**  | **Development**  | **Tools**           | **Databases**       | **Other**                |
