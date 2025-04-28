@@ -82,15 +82,9 @@ The result was an intelligent model for detecting brain tumors from medical imag
 
 | **Machine Learning**  | **Development**  | **Tools**           | **Databases**       | **Other**                |
 |:----------------------|:-----------------|:--------------------|:--------------------|:-------------------------|
-| Python, Scikit-learn, YOLO, SAM | C#, Python, HTML, CSS, JavaScript | Streamlit, Git, VSCode, Visual Studio | MySQL, SQLite | Data Analysis, Computer Vision, Model Deployment |
+| Python, Scikit-learn, YOLO, SAM | C#, Python, HTML, CSS, JavaScript | Streamlit, Git, VSCode, Visual Studio | MySQL, SQLite | Data Analysis, Computer Vision, Model Deployment, **PC Building**, **Data Labeling** |
 
 ---
 
-## 📫 **Contact Me**
-
-- **[LinkedIn](#)**  
-- **[Email](#)**
-
----
 
 > Thank you for visiting my GitHub! Let's connect and collaborate on amazing projects 🚀
