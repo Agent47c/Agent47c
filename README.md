@@ -1,90 +1,24 @@
-# 👋 Hi, I'm Hamza Ramzan 👩‍💻
+# 💫 About Me:
+I’m a software engineer who enjoys building practical systems using machine learning and computer vision, especially real-time detection and tracking applications. I spend a lot of time working with YOLO models, video pipelines, and turning ML ideas into things that actually run well in production.<br><br>I also have a strong interest in hardware and performance optimization. I’ve been building and tuning PCs for gaming, AI workloads, and content creation for years, and I enjoy finding the balance between efficient hardware usage and clean software design.<br><br>Previously, I worked in data labeling and QA, which helped me develop a strong eye for detail and a solid understanding of how data quality impacts ML models. These days, I focus on building reliable ML systems, experimenting with new models, and creating simple, usable interfaces for real-world problems.<br><br>I enjoy learning, breaking things, fixing them, and improving systems step by step.<br><br>Tech I work with:<br>Python • Computer Vision • YOLO • Deep Learning • Docker • FastAPI • Git • Linux • GPU Optimization
 
-> Passionate **Software Developer** with expertise in **Machine Learning**, **Data Science**, and **Web Development**.  
-> I love building user-friendly, impactful applications that solve real-world problems.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamza-ramzan-5516a7272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamza.jani7433@gmail.com) 
 
-## 🚀 Projects
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hamza Ramzan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hamza Ramzan&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza Ramzan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🧠 **Brain Tumor Detection App**
-Developed a **Brain Tumor Detection App** using **YOLO** for object detection and **SAM (Segment Anything Model)** for image segmentation.  
-Built an **interactive web app** using **Streamlit** to make the app user-friendly for healthcare professionals.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hamza Ramzan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Technologies**: Python, YOLO, SAM, Streamlit, Computer Vision, Medical Imaging.
-- **Key Features**:
-  - Detects brain tumors from MRI images using **YOLO**.
-  - Segments detected regions with **SAM**.
-  - Easy-to-use interface with **Streamlit** for real-time results.
-
----
-
-### 📨 **Spam Mail Detection using Naive Bayes**
-Developed a **Spam Mail Detection System** during my **Certura Internship**. The system uses the **Naive Bayes** algorithm along with **CountVectorizer** for text preprocessing.  
-Built a **Streamlit-based frontend** for real-time spam classification.
-
-- **Technologies**: Python, Machine Learning, NLP, Streamlit.
-- **Key Features**:
-  - Predicts whether an email is **Spam** or **Not Spam**.
-  - Streamlit frontend for easy user interaction.
-  - Focus on **text classification** and model deployment.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hamza Ramzan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Hamza Ramzan&icon=3&color=6)](https://visitcount.itsvg.in)
 
-### 🏠 **House Price Prediction Model**
-Built a **House Price Prediction Model** during my **Certura Internship**. The model predicts house prices based on key features like the number of bedrooms, bathrooms, and nearby schools.  
-I trained three models: **Decision Tree**, **Random Forest**, and **Linear Regression**, ultimately choosing **Linear Regression** for its simplicity and performance.
-
-- **Technologies**: Python, Machine Learning, Regression Models, Streamlit.
-- **Key Features**:
-  - Predicts house prices based on user inputs.
-  - Models compared include **Decision Tree**, **Random Forest**, and **Linear Regression**.
-  - **Streamlit frontend** for real-time price predictions.
-
----
-
-### 👗 **Virtual Wardrobe Manager**  
-Developed a **Virtual Wardrobe Management System** as part of a **University Project**. This Windows Forms app allows users to **add**, **edit**, **delete**, and **view** clothing items stored in a **MySQL database** using **XAMPP**.
-
-- **Technologies**: C#, MySQL, ADO.NET, Windows Forms.
-- **Key Features**:
-  - **CRUD operations** for managing wardrobe items.
-  - **MySQL database** integration for persistent storage.
-  - User-friendly **Windows Forms GUI**.
-
----
-
-## 🎓 **Certura Internship Experience**
-
-As part of my **Certura Internship**, I had the opportunity to work on several impactful projects:
-
-- 🏠 **House Price Prediction Model**: Built, trained, and deployed a regression model with a frontend to predict house prices.
-- 📧 **Spam Mail Detection Model**: Developed a text classification model for spam detection and deployed it with a minimalist UI using Streamlit.
-
-These projects enhanced my skills in **Machine Learning**, **Model Evaluation**, **Streamlit UI Building**, and **Deployment**.
-
----
-
-## 🎓 **Arch Technologies Internship**
-
-During my **Arch Technologies Internship**, I had the opportunity to work on a **Brain Tumor Detection Model**. The task involved using **YOLO (You Only Look Once)** for object detection on **MRI images** to identify possible tumor regions. I also incorporated **SAM (Segment Anything Model)** for more refined segmentation of the tumor regions.  
-The result was an intelligent model for detecting brain tumors from medical images, which could be used in the healthcare industry.
-
-- **Technologies**: Python, YOLO, SAM, Machine Learning, Computer Vision, Medical Imaging.
-- **Key Features**:
-  - **Object detection** with **YOLO** on MRI scans.
-  - **Segmentation** of tumor regions with **SAM**.
-  - **Real-time prediction** using **Streamlit** frontend.
-
-  ---
-
-## 🛠️ **Skills**
-
-| **Machine Learning**  | **Development**  | **Tools**           | **Databases**       | **Other**                |
-|:----------------------|:-----------------|:--------------------|:--------------------|:-------------------------|
-| Python, Scikit-learn, YOLO, SAM | C#, Python, HTML, CSS, JavaScript | Streamlit, Git, VSCode, Visual Studio | MySQL, SQLite | Data Analysis, Computer Vision, Model Deployment, **PC Building**, **Data Labeling** |
-
----
-
-
-> Thank you for visiting my GitHub! Let's connect and collaborate on amazing projects 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
